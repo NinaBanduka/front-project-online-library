@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/front-project-online-library/static/js/main.98d8aab4.chunk.js",
+    "main.js.map": "/front-project-online-library/static/js/main.98d8aab4.chunk.js.map",
+    "runtime-main.js": "/front-project-online-library/static/js/runtime-main.10f6312d.js",
+    "runtime-main.js.map": "/front-project-online-library/static/js/runtime-main.10f6312d.js.map",
+    "static/js/2.4fb53022.chunk.js": "/front-project-online-library/static/js/2.4fb53022.chunk.js",
+    "static/js/2.4fb53022.chunk.js.map": "/front-project-online-library/static/js/2.4fb53022.chunk.js.map",
+    "index.html": "/front-project-online-library/index.html",
+    "static/js/2.4fb53022.chunk.js.LICENSE.txt": "/front-project-online-library/static/js/2.4fb53022.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10f6312d.js",
+    "static/js/2.4fb53022.chunk.js",
+    "static/js/main.98d8aab4.chunk.js"
+  ]
+}
